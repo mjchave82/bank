@@ -1,0 +1,15 @@
+[REPORTS]
+reports=no
+
+[MESSAGES CONTROL]
+disable=C0304
+
+[DESIGN]
+max-args=5
+ignored-argument-name=_.*
+max-locals=5
+max-returns=5
+max-branches=5
+max-statements=10
+max-parents=7
+max-attributes=10
